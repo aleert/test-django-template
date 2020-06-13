@@ -9,7 +9,7 @@ python-decouple==3.3  # https://github.com/henriquebastos/python-decouple
 
 # Django
 # ------------------------------------------------------------------------------
-django==3.0.5  # https://www.djangoproject.com/
+django==3.0.7  # https://www.djangoproject.com/
 django-model-utils==4.0.0  # https://github.com/jazzband/django-model-utils
 django-allauth==0.41.0  # https://github.com/pennersr/django-allauth
 django-crispy-forms==1.9.0
