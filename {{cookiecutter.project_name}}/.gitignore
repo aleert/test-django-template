@@ -222,14 +222,8 @@ media/
 *.env
 .env
 
-# Local settings files:
-*local.py
-
 # Deploy files for Docker:
 docker-compose.deploy.yml
-
-# Certificates:
-docker/caddy/certs/
 
 # Artifacts:
 .gitlab/.svn/
