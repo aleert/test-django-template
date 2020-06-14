@@ -243,3 +243,11 @@ artifacts/
 
 # ipython:
 .ipython/
+
+
+# project specific
+sql/*.sql
+
+*/.envs/.local/.django/.django
+*/.envs/.local/.django/.env
+*/.envs/.local/.postgres/.postgres
