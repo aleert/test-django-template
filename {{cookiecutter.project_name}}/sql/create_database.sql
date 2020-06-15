@@ -1,2 +1,0 @@
-CREATE USER pznumbd  WITH PASSWORD 'I7NxZKBmaYuo';
-CREATE DATABASE test_project OWNER pznumbd ENCODING 'utf-8';
